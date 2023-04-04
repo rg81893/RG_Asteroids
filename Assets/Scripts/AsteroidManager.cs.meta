@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b15d83094d990fe4a98b6ffb45df153b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _miniAsteroid: {fileID: 4558650282582466158, guid: adff982f6854373418683d06f70c175d, type: 3}
+  - _miniMiniAsteroid: {fileID: 5255425392513067983, guid: 6c2b0a1e07f1b554bbb75796081fd3c6, type: 3}
+  - gameManager: {instanceID: 0}
+  - rigidbody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
