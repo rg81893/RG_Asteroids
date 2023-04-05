@@ -79,7 +79,7 @@ public class PlayerManager : MonoBehaviour
         audioSource.PlayOneShot(clips[0]);
     }
 
-    //gestion des limites
+    //gestion des limites de déplacement
     public void CheckBoundaries()
     {
         if (transform.position.x < -5 || transform.position.x > 5

@@ -873,7 +873,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 137a7a4273c5c334a9c080e525db3501, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b49e515cf4856c246901170e87a42177, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1042,8 +1042,6 @@ MonoBehaviour:
   scoreText: {fileID: 0}
   gameOverCanvas: {fileID: 0}
   ship: []
-  ship2: {fileID: 0}
-  ship3: {fileID: 0}
   player: {fileID: 0}
   lives: 3
   score: 0

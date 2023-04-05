@@ -34,7 +34,6 @@ public class SpawnManager : MonoBehaviour
             {
                 break;
             }
-
         }
 
         // calcul une direction et une vitesse aléatoires
